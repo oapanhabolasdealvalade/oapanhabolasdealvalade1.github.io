@@ -12,7 +12,11 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-nav:hover{
+footer img {
+    width: 0.8em;
+    height:0.8em;
+}
+nav:hover {
     color:green;
 }
 a {
