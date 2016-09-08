@@ -1,2 +1,3 @@
-	name: O Apanha-Bolas de Alvalade
-	markdown: kramdown
+name: O Apanha-Bolas de Alvalade
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
