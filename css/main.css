@@ -16,9 +16,7 @@ footer img {
     width: 1.4em;
     height: 1.4em;
 }
-nav:hover {
-    color:green;
-}
+
 a {
     text-decoration: none;
     color: #999;
