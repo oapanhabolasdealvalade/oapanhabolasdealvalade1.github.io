@@ -43,12 +43,12 @@ footer {
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
-    font-family: 'Roboto';
+    font-family: 'Droid Serif', 'Roboto';
 }
 
 ul.posts li {
     list-style: none;
-    font-family:'Roboto';
+    font-family:'Droid Serif','Roboto';
 }
 
 .meta{
@@ -56,10 +56,10 @@ ul.posts li {
     font-size:1em;
 }
 .posts{
-    font-family: 'Roboto';
+    font-family: 'Droid Serif','Roboto';
 }
 .container{
-    font-family: 'Roboto';
+    font-family: 'Droid Serif','Roboto';
     font-size: 1em;
 }
 .blurb{
