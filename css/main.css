@@ -3,7 +3,7 @@ body {
     width: 60%;
 }
 nav ul, footer ul {
-    font-family:'Roboto','Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Open Sans','Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -26,7 +26,7 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Roboto','Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Open Sans','Helvetica', 'Arial', 'Sans-Serif';
     color: #12664F;
 }
 p {
@@ -43,23 +43,23 @@ footer {
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
-    font-family: 'Droid Serif', 'Roboto';
+    font-family: 'Open Sans','Droid Serif', 'Roboto';
 }
 
 ul.posts li {
     list-style: none;
-    font-family:'Droid Serif','Roboto';
+    font-family:'Open Sans','Droid Serif','Roboto';
 }
 
 .meta{
-    font-family: 'Roboto';
+    font-family: 'Open Sans','Roboto';
     font-size:1em;
 }
 .posts{
-    font-family: 'Droid Serif','Roboto';
+    font-family: 'Open Sans','Droid Serif','Roboto';
 }
 .container{
-    font-family: 'Droid Serif','Roboto';
+    font-family: 'Open Sans','Droid Serif','Roboto';
     font-size: 1em;
 }
 .blurb{
